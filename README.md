@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Helloo there, I am Kritika Sharma 👋</h1>=
+
+An undergrad student, pursuing Electronics & Computer Science Engineerng👩‍💻
+
+📌 <strong>Say Hi & find more about me : <a href="https://www.linkedin.com/in/kritika243/" target="_blank">@Linkedin</a> </strong>
+
+📫 Or write a  mail to me <a href="24kritikasharma24@gmail.com" target="_blank">📧@24kritikasharma24@gmail.com</a>
