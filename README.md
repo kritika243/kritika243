@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 An undergrad student, pursuing Electronics & Computer Science Engineerng👩‍💻
 
-📌 <strong>Say Hi & find more about me : <a href="https://linkedin.com/in/akshaymarch7">
+<a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
