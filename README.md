@@ -21,3 +21,8 @@ An undergrad student, pursuing Electronics & Computer Science Engineerng👩‍�
 📌 <strong>Say Hi & find more about me : <a href="https://www.linkedin.com/in/kritika243/" target="_blank">@Linkedin</a> </strong>
 
 📫 Or write a  mail to me <a href="24kritikasharma24@gmail.com" target="_blank">📧@24kritikasharma24@gmail.com</a>
+
+
+Cheers,
+
+Kritika 
