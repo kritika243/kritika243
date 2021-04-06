@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Helloo there, I am Kritika Sharma 👋</h1>
+<h1 align="center">Helloo World </h1>
 
 An undergrad student, pursuing Electronics & Computer Science Engineerng👩‍💻
 
