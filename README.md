@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Helloo World </h1>
 
-An undergrad student, pursuing Electronics & Computer Science Engineerng👩‍💻
+# I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
 
-<a href="https://linkedin.com/in/kritika243">
+# <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
-📫 Or write a  mail to me <a href="24kritikasharma24@gmail.com" target="_blank">📧@24kritikasharma24@gmail.com</a>
+Cheers,  
+Kritika Sharma 
 
 
 
