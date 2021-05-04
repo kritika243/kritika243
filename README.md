@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello World,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kritika Sharma
+Nice to see you here
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
+
+
 
 
 
