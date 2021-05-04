@@ -27,7 +27,6 @@ Nice to see you here
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
@@ -35,11 +34,16 @@ Nice to see you here
 </p>
 
 
-
-
-
-
 # I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
+* Doing my majors in Programming
+
+
+
+
+
+#### Want to talk
+
+ - 💌 [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
 
 # <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
