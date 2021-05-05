@@ -23,6 +23,8 @@ Nice to see you here
 <a href="mailto:24kritiksharma24@gmail.com">
   <img align="left" alt="Kritika Sharma - Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br />
+<br/>
 
 
 ## My skills 💼
