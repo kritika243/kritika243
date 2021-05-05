@@ -26,6 +26,10 @@ Nice to see you here
 <br />
 <br/>
 
+# I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
+* An avid learner
+* I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense.
+
 
 ## My skills 💼
 
@@ -42,17 +46,15 @@ Nice to see you here
 
 
 
-# I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
-* Doing my majors in Programming
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
+
+
 
 
 
