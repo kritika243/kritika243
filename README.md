@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 # Hello World,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kritika Sharma
 Nice to see you here
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
+# <a href="https://linkedin.com/in/kritika243">
+  <img align="left" alt="Kritika Sharma - LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:24kritiksharma24@gmail.com">
+  <img align="left" alt="Kritika Sharma - Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 
 ## My skills 💼
@@ -26,6 +32,7 @@ Nice to see you here
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -56,7 +63,7 @@ No Activity tracked this Week
  - 💌 [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
 
 # <a href="https://linkedin.com/in/kritika243">
-  <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Kritika Sharma - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <br />
 <br />
