@@ -27,8 +27,7 @@ Nice to see you here
 <br/>
 
 # I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
-* An avid learner
-* I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense.
+<p align='center'> I am an avid learner,I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. </p>
 
 
 ## My skills 💼
