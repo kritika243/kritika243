@@ -51,6 +51,79 @@ Nice to see you here
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 164 Contributions in the Year 2021
+ > 
+> 📦 96.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+🌆 Daytime    10 commits     ██████████████░░░░░░░░░░░   55.56% 
+🌃 Evening    6 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Wednesday    3 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       7 commits      █████████░░░░░░░░░░░░░░░░   38.89% 
+Saturday     3 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
+CSS                      10 repos            ████████░░░░░░░░░░░░░░░░░   34.48% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/kritika243/kritika243/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
