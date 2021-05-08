@@ -53,14 +53,6 @@ Nice to see you here
 
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
-
 #### Want to talk
 
  - 💌 [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
