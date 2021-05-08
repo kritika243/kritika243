@@ -53,77 +53,9 @@ Nice to see you here
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-231-blue)
-
-**🐱 My Github Data** 
-
-> 📦 98.9 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
 ```text
-🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-🌆 Daytime    10 commits     ██████████████░░░░░░░░░░░   55.56% 
-🌃 Evening    6 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
+No Activity tracked this Week
 ```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Wednesday    3 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       7 commits      █████████░░░░░░░░░░░░░░░░   38.89% 
-Saturday     3 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     10 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-CSS                      10 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/kritika243/kritika243/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 
