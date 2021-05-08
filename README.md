@@ -51,9 +51,9 @@ Nice to see you here
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
-<!--[![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritika243&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kritika243)](https://github.com/anuraghazra/github-readme-stats) 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
