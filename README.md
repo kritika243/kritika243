@@ -27,8 +27,10 @@ Nice to see you here
 <br />
 <br/>
 
-# I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
+
+## I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻
 <p align='center'> I am an avid learner,I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. </p>
+
 
 
 ## My skills 💼
@@ -42,16 +44,12 @@ Nice to see you here
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
-
-
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
 
+-------
+
+📊 **My Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 XML          55 mins         ████████████████████░░░░░   80.05 % 
@@ -59,7 +57,7 @@ Java         13 mins         █████░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+-------
 
 #### Want to talk
 
