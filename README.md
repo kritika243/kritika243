@@ -54,7 +54,8 @@ Nice to see you here
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+XML          55 mins         ████████████████████░░░░░   80.05 % 
+Java         13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 ```
 <!--END_SECTION:waka-->
 
