@@ -60,15 +60,16 @@ Markdown   1 min           █████████████████�
 
 #### Want to talk
 
- - 💌 [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
+ - 💌   [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
 
-# <a href="https://linkedin.com/in/kritika243">
+<!-- # <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Kritika Sharma - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<br />
-<br />
+</a> -->
+
+<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="90px" align="center">
+
 Cheers,  
-Kritika Sharma 
+Kritika
 
 
 
