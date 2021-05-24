@@ -52,7 +52,7 @@ Nice to see you here
 📊 **My Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 min           █████████████████████████   100.00 % 
+JavaScript   16 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
