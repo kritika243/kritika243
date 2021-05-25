@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Namaste🙏 I am Kritika Sharma 
-Nice to see you here
+<!-- # Namaste🙏 I am Kritika Sharma  -->
+Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%, height: 300px" />
+</br>
+  
+<h2> Connect with me  </h2>
 <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Kritika Sharma - LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -33,7 +37,7 @@ Nice to see you here
 
 
 
-## My skills 💼
+## ⚡ Technologies 💼
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
