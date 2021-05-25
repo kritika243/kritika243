@@ -33,7 +33,12 @@ Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemma
 
 
 ## <p align='center'>I'm an undergrad student, pursuing Electronics & Computer Science Engineerng 👩‍💻</p>
-### <p align='center'> I am an avid learner, I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense.</p>
+### <p> I am an avid learner, I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense.</p>
+
+- 🎯 Always eager to explore new technologies.
+- ⭐ Able to switch between perfectionism and pragmatism.
+-  🔑 Believer in Clean Code.
+-  🙌 Always questioning the status quo and wanting to improve.
 
 
 
