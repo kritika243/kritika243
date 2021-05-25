@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- # Namaste🙏 I am Kritika Sharma  -->
-Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<!-- Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
-
+ -->
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%, height: 300px" />
 </br>
   
@@ -42,6 +42,10 @@ Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemma
 🔑 Believer in Clean Code.
 
 🙌 Always questioning the status quo and wanting to improve.
+
+
+Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
 
 
 
