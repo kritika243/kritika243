@@ -47,7 +47,11 @@ Here are some ideas to get you started:
 Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
 
+##### MOTTO
 
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+
+####
 
 ## ⚡ Technologies 💼
 
@@ -73,6 +77,7 @@ JavaScript   58 mins         █████████████████
 <!--END_SECTION:waka-->
 
 -------
+
 
 #### Want to talk
 
