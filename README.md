@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 📊 **My Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr            █████████████████████████   100.00 % 
+Python   1 hr 44 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
