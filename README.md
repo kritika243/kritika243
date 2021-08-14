@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ##### MOTTO
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+> If you're not fanatical about it, you'll never be great at it
 
 ####
 
