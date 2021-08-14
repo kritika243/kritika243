@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ##### MOTTO
 
-> If you're not fanatical about it, you'll never be great at it
+> If you can't stop thinking about it, don't stop working for it.
 
 ####
 
