@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 
 ## <p align='center'>I'm a senior student, pursuing Electronics & Computer Science Engineerng 👩‍💻</p>
-### <p> I am an avid learner, I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense.</p>
+### <p> I am an avid learner, I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in aesthetic and functional sense.</p>
 
 🎯 Always eager to explore new technologies & learn things from others.
 
