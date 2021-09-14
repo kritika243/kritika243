@@ -75,11 +75,12 @@ JavaScript / TypeScript &nbsp; &nbsp;
 Material UI &nbsp; &nbsp;
 React Router &nbsp; &nbsp;
 Redux &nbsp; &nbsp;
-Tailwind CSS &nbsp; &nbsp;
+Tailwind-CSS &nbsp; &nbsp;
 Figma &nbsp; &nbsp;
  </p>
  
 ###
+ <p align="center"> 
 NodeJs / ExpressJS &nbsp; &nbsp;
 MongoDB &nbsp; &nbsp;
 Firebase &nbsp; &nbsp;
@@ -87,10 +88,11 @@ Python &nbsp; &nbsp;
 C++ &nbsp; &nbsp;
 Software Design and Architectures - MVC &nbsp; &nbsp;
 Git | NPM &nbsp; &nbsp;
+ </p>
  
  <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
 </details>
 
