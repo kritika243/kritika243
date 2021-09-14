@@ -65,29 +65,28 @@ Here are some ideas to get you started:
 
 
 <details close>
-<summary><b>Find more about what I do?</b> <i>(click to expand!)</i></summary>
-## ⚡ Technologies 💼
-
-<!-- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> -->
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;\
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)&nbsp;
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+<summary><b>Find more about what I do? 👀 </b> <i>(click to expand!)</i></summary>
+ 
+###
+ReactJS &nbsp; &nbsp;
+HTML / CSS &nbsp; &nbsp;
+JavaScript / TypeScript &nbsp; &nbsp;
+Material UI &nbsp; &nbsp;
+React Router &nbsp; &nbsp;
+Redux &nbsp; &nbsp;
+Tailwind CSS &nbsp; &nbsp;
+Figma &nbsp; &nbsp;
+ 
+###
+NodeJs / ExpressJS &nbsp; &nbsp;
+MongoDB &nbsp; &nbsp;
+Firebase &nbsp; &nbsp;
+Python &nbsp; &nbsp;
+C++ &nbsp; &nbsp;
+Software Design and Architectures - MVC &nbsp; &nbsp;
+Git | NPM &nbsp; &nbsp;
+ 
+ <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
