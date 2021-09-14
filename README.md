@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 > If you can't stop thinking about it, don't stop working for it.
 
-## Connect with me 
+#### Connect with me 
 <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Kritika Sharma - LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 <details close>
-<summary><b>Find more about what I do? 👀 </b> <i>(click to expand!)</i></summary>
+ <summary><b> What I do?  ⏬ </b> <i>(click to expand!)</i></summary>
  
 ###
 ReactJS &nbsp; &nbsp;
@@ -112,10 +112,6 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 #### Want to talk
 
  - 💌   [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
-
-<!-- # <a href="https://linkedin.com/in/kritika243">
-  <img align="left" alt="Kritika Sharma - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a> -->
 
 <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="90px" align="center">
 
