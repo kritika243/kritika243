@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 <!-- Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kritika243)
  -->
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%, height: 300px" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%, height: 300px" />
 </br>
+ -->
+<!-- <p>
+ <img align="left" src="https://rishavanand.github.io/static/images/greetings.gif"/>
+ </p>
+  -->
 
 
 <p align="right">
@@ -29,7 +34,7 @@ Here are some ideas to get you started:
 </p>
   
 
-## <p align='center'>I'm a senior student, pursuing Electronics & Computer Science Engineerng 👩‍💻</p>
+## <p align='center'>I'm a senior student, pursuing Electronics & Computer Science Engineerng 👩🏻‍💻</p>
 ### <p> I am an avid learner, I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in aesthetic and functional sense.</p>
 
 🎯 Always eager to explore new technologies & learn things from others.
@@ -48,9 +53,7 @@ Here are some ideas to get you started:
 
 > If you can't stop thinking about it, don't stop working for it.
 
-####
-
-<h2> Connect with me  </h2>
+## Connect with me 
 <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Kritika Sharma - LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -58,9 +61,11 @@ Here are some ideas to get you started:
   <img align="left" alt="Kritika Sharma - Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br/>
+<br/> <br/> 
 
 
-
+<details close>
+<summary><b>Find more about what I do?</b> <i>(click to expand!)</i></summary>
 ## ⚡ Technologies 💼
 
 <!-- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -86,8 +91,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika243&show_icons=true&locale=en&layout=compact" alt="kritika243" /></p>
 
+</details>
 
--------
+---
+
 
 📊 **My Weekly development breakdown**
 <!--START_SECTION:waka-->
