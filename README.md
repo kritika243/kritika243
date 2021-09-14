@@ -68,6 +68,7 @@ Here are some ideas to get you started:
  <summary><b> What I do?  ⏬ </b> <i>(click to expand!)</i></summary>
  
 ###
+<p align="center"> 
 ReactJS &nbsp; &nbsp;
 HTML / CSS &nbsp; &nbsp;
 JavaScript / TypeScript &nbsp; &nbsp;
@@ -76,6 +77,7 @@ React Router &nbsp; &nbsp;
 Redux &nbsp; &nbsp;
 Tailwind CSS &nbsp; &nbsp;
 Figma &nbsp; &nbsp;
+ </p>
  
 ###
 NodeJs / ExpressJS &nbsp; &nbsp;
