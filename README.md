@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 <details close>
- <summary><b> What I do?  ⏬ </b> <i>(click to expand!)</i></summary>
+ <summary><b> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> What I do? ⏬ </b><i>(click to expand!)</i></summary>
  
 ###
 <p align="center"> 
