@@ -111,9 +111,9 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 -------
 
 
-#### Want to talk
+#### Watch my contribution graph being eaten by a Snake! 🐍
 
- - 💌   [@24kritikasharma24@gmail.com](mailto:24kritikasharma24@gmail.com)
+![snake gif](https://github.com/kritika243/kritika243/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="90px" align="center">
 
