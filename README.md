@@ -68,8 +68,9 @@ Here are some ideas to get you started:
 ###
 <p align="center"> 
 ReactJS &nbsp; &nbsp;
-HTML / CSS &nbsp; &nbsp;
+HTML / CSS / SCSS &nbsp; &nbsp;
 JavaScript / TypeScript &nbsp; &nbsp;
+Next.js &nbsp; &nbsp;
 Material UI &nbsp; &nbsp;
 React Router &nbsp; &nbsp;
 Redux &nbsp; &nbsp;
