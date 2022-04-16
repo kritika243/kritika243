@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 > If you can't stop thinking about it, don't stop working for it.
 
-#### Connect with me 
+#### Connect With Me 
 <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Kritika Sharma - LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
