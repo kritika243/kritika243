@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ##### MOTTO
 
-> If you can't stop thinking about it, don't stop working for it.
+> ⚡<i> If you can't stop thinking about it, don't stop working for it. </i>⚡
 
 #### Connect With Me 
 <a href="https://linkedin.com/in/kritika243">
