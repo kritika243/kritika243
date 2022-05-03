@@ -34,14 +34,12 @@ Here are some ideas to get you started:
 </p>
   
 
-## <p align='center'>I'm a senior student, pursuing Electronics & Computer Science Engineerng 👩🏻‍💻</p>
+## <p align='center'>I'm Kritika, passionate about writing clean, readable, and reusable code.👩🏻‍💻</p>
 ### <p> I am an avid learner, I love what I do and I aspire to create ways to understand and design, experiences that can help solve problems and communicate both in aesthetic and functional sense.</p>
 
 🎯 Always eager to explore new technologies & learn things from others.
 
 ⭐ Able to switch between perfectionism and pragmatism.
-
-🔑 Believer in Clean Code.
 
 🙌 Always questioning the status quo and wanting to improve.
 
@@ -51,9 +49,9 @@ Here are some ideas to get you started:
 
 ##### MOTTO
 
-> ⚡<i> If you can't stop thinking about it, don't stop working for it. </i>⚡
+> 🔥 If you can't stop thinking about it, don't stop working for it.
 
-#### Connect With Me 
+### <p>Interested in building products with tech? Get in touch with me.</p>
 <a href="https://linkedin.com/in/kritika243">
   <img align="left" alt="Kritika Sharma - LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
