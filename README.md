@@ -100,10 +100,13 @@ Git | NPM &nbsp; &nbsp;
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   18 hrs 30 mins  ███████████████████████▒░   93.03 %
-SCSS         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Total Time: 18 hrs 58 mins
+
+TypeScript   14 hrs 57 mins  ███████████████████▓░░░░░   78.79 %
+SCSS         2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+JavaScript   1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
