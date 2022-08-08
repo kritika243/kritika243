@@ -100,8 +100,6 @@ Git | NPM &nbsp; &nbsp;
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 hrs 53 mins
-
 TypeScript   20 hrs 18 mins  ███████████████████▒░░░░░   76.99 %
 JavaScript   3 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
 SCSS         2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
