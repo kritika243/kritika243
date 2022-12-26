@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="right">
  Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <img src="https://komarev.com/ghpvc/?username=kritika243&style=plastic&label=Views"/>
-<img src="https://badges.pufler.dev/visits/kritika243/kritika243?color=black&logo=github" />
+<!-- <img src="https://badges.pufler.dev/visits/kritika243/kritika243?color=black&logo=github" /> -->
 </p>
   
 
