@@ -68,12 +68,13 @@ Here are some ideas to get you started:
 ReactJS &nbsp; &nbsp;
 HTML / CSS / SCSS &nbsp; &nbsp;
 JavaScript / TypeScript &nbsp; &nbsp;
+React Native &nbsp; &nbsp;
 Next.js &nbsp; &nbsp;
 Material UI &nbsp; &nbsp;
 React Router &nbsp; &nbsp;
 Redux &nbsp; &nbsp;
 Tailwind-CSS &nbsp; &nbsp;
-Figma &nbsp; &nbsp;
+<!-- Figma &nbsp; &nbsp; -->
  </p>
  
 ###
@@ -83,7 +84,7 @@ MongoDB &nbsp; &nbsp;
 Firebase &nbsp; &nbsp;
 Python &nbsp; &nbsp;
 C++ &nbsp; &nbsp;
-Software Design and Architectures - MVC &nbsp; &nbsp;
+Software Design and System Architectures &nbsp; &nbsp;
 Git | NPM &nbsp; &nbsp;
  </p>
  
