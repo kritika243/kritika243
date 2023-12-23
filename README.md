@@ -101,8 +101,7 @@ Git | NPM &nbsp; &nbsp;
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   54 mins         ███████████████████████▓░   94.90 %
-TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
